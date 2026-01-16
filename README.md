@@ -15,17 +15,17 @@ Building scalable systems, fintech & CRM platforms, and modern web apps
 
 ### Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=express,nestjs,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=express,nestjs,postgres,mysql,redis,prisma" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,react-query,html,css" />
 </p>
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,figma,jest" />
 </p>
 
 ---
