@@ -20,7 +20,9 @@ Building scalable systems, fintech & CRM platforms, and modern web apps
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,react-query,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css" />
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem.svg" height="48" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ### DevOps & Tools
