@@ -8,7 +8,7 @@ Building scalable systems, fintech & CRM platforms, and modern web apps
 
 ## 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,cpp,express,nestjs,postgres,mysql,redis,prisma,react,nextjs,tailwind,redux,html,css,docker,git,github,postman,vercel,figma,jest" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,cpp,express,nestjs,postgres,mysql,redis,prisma,react,nextjs,tailwind,redux,docker,git,figma,jest" />
 </p>
 ---
 
